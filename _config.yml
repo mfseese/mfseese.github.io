@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael F. Seese"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Political Science & International Affairs at UC San Diego"
+  bio              : "PhD Candidate at UC San Diego"
   location         : "San Diego, CA"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/michael-seese-513335182"
   orcid            : "http://orcid.org/0000-0002-5140-9928"
   pinterest        :
   soundcloud       :
