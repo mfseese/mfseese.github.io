@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Taking the Cloth: Social norms and elite cues increase support for masks among white Evangelical Americans"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'During the COVID-19 pandemic, the CDC and the WHO have recommended face masks as key to reducing viral transmission.'
