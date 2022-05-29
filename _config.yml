@@ -86,7 +86,7 @@ author:
   location         : "San Diego, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=g3U9SOsAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/michael-seese-513335182"
+  linkedin         : "michael-seese-513335182"
   orcid            : "http://orcid.org/0000-0002-5140-9928"
   pinterest        :
   soundcloud       :
