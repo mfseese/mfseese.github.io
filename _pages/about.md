@@ -12,7 +12,7 @@ I am a PhD Candidate in [political science](https://polisci.ucsd.edu) and intern
 
 During the PhD program, I spent several years as a research fellow with the [Institutions and Political Inequality](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) group in the [Political Economy of Development](https://www.wzb.eu/en/research/political-economy-of-development) cluster at the [WZB Berlin Social Science Center](https://www.wzb.eu/en) (Wissenschaftszentrum Berlin für Sozialforschung).  Prior to the PhD, I completed a Master of International Affairs degree at the [School of Global Policy and Strategy](https://gps.ucsd.edu) at UC San Diego, with emphases in international security and Latin American politics.  I also hold a B.A. in international relations, as well as a B.S. and M.A. in political science.
 
-I teach a number of political science courses at UC San Diego. I served as instructor of record for the following courses:
+I teach a number of political science courses at UC San Diego, including:
 
 * POLI 10: Introduction to American Politics
 * POLI 11: Introduction to Comparative Politics
