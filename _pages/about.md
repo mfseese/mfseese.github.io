@@ -18,3 +18,5 @@ I teach a number of political science courses at UC San Diego. I served as instr
 * POLI 11: Introduction to Comparative Politics
 * POLI 127: Politics of Development
 * POLI 120: Contention and Conflict in Africa
+
+You can find the most recent syllabi for these courses, along with my teaching statement, elsewhere on this website.
