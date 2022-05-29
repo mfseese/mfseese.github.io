@@ -8,28 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in [political science](https://polisci.ucsd.edu) and [international affairs](https://gps.ucsd.edu) at the [University of California San Diego](https://www.ucsd.edu).
+I am a PhD Candidate in [political science](https://polisci.ucsd.edu) and [international affairs](https://gps.ucsd.edu) at the [University of California San Diego](https://www.ucsd.edu).  My substantive work explores the political geography of civil war and state building in Africa.  My dissertation project uses geospatial data and methods to map and explain the spatial extent of governmental control in African states.  I am particularly interested in the _variation_ in govermental control throughout the continent, both within states and between them. I am also interested in the _effects_ of governmental control (or the lack thereof): how do patterns of welfare, security, and market activity differ in areas controlled by the center versus areas in which the goverment either lacks a monopoly on violence, or exercises little authority. Methodologically, I am interested in geospatial / GIS methods, large _n_ sample surveys, and experimental designs.
 
+During the PhD program, I spent several years as a research fellow with the [Institutions and Political Inequality](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) group at the [WZB Berlin Social Science Center](https://www.wzb.eu/en) (Wissenschaftszentrum Berlin für Sozialforschung).  Prior to the PhD, I completed a Master of International Affairs Degree at the School of Global Policy and Strategy at UC San Diego, with an emphasis in international security and Latin American politics.  I also hold a B.A. in international relations, as well as a B.S. and M.A. in political science.
 
-
-
-<!--
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
--->
+I teach a number of political science courses at UC San Diego. I've served as instructor of record for POLI 10: Introduction to American Politics, POLI 11: Introduction to Comparative Politics, POLI 127: Politics of Development,  and POLI 120: Contention and Conflict in Africa.
