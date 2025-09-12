@@ -1,10 +1,10 @@
 ---
-title: "Taking the Cloth: Social norms and elite cues increase support for masks among white Evangelical Americans"
+title: "Taking the Cloth: Social Norms and Elite Cues Increase Support for Masks among White Evangelical Americans"
 collection: publications
 permalink: /publication/2022-taking_the_cloth
 excerpt: 'A survey experiment to assess whether elite endorsements and social norms increase COVID-19 mask compliance among white Evangelicals in the United States.'
 date: 2022-09-29
-venue: 'The Journal of Experimental Politics (Forthcoming)'
+venue: 'The Journal of Experimental Politics'
 paperurl: '/files/TtC_Manuscript.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
